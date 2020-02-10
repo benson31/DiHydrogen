@@ -8,6 +8,10 @@
 #ifndef H2_META_PARTIAL_FUNCTIONS_MAKEFUNCTION_HPP_
 #define H2_META_PARTIAL_FUNCTIONS_MAKEFUNCTION_HPP_
 
+#include "h2/meta/core/Lazy.hpp"
+
+#include <cstdlib>
+
 // TODO: Needs basic ValueList support
 
 namespace h2

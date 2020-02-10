@@ -8,5 +8,6 @@
 target_sources(StaticTest PRIVATE
   static_test_apply.cpp
   #static_test_make_function.cpp
+  static_test_pf_insertion_sort.cpp
   static_test_placeholders.cpp
   )
